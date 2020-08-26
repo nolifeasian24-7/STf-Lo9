@@ -1,2 +1,1 @@
-# STf-Lo9
-A little bot for some entertainment, based of simple chatty bot by jetbrains.
+A little bot, originally based of the jetbrains simple chatty bot project, however, i wanted something a little more advanced. One of my most advanced projects to date! Feel free to give some feedback! and yes, there will be revisions too, and everntually, a JAR form of this file.
